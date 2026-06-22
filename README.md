@@ -1,7 +1,8 @@
 # HR Analytics Dashboard
 
 
-<img width="875" height="478" alt="project3" src="https://github.com/user-attachments/assets/f526f824-4cbb-40fc-8e3c-8e4b1c1c8ecf" />
+
+<img width="875" height="478" alt="project3" src="https://github.com/user-attachments/assets/9166e4bd-42e9-4aa0-b48e-c19f56d6e95e" />
 
 
 
